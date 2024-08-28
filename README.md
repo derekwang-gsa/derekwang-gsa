@@ -1,18 +1,13 @@
-
-
-
-README 
-Working with Derek Wang
-Intro text as desired!
+# Working with Derek Wang
 
 Intro
-|-------------|
-| Name pronunciation: | deh-rek whey-ng |
-| Pronouns: | he/him |
-| Chapter or department: | Customer Experience Directorate | 
-| When you started: | Aug 26, 2028 | 
-| Location: | San Jose, California
-| Schedule/working hours: | 9am - 5pm PST | 
+|-------------------------|---------------------------------|
+| Name pronunciation:     | deh-rek whey-ng                 |
+| Pronouns:               | he/him                          |
+| Chapter or department:  | Customer Experience Directorate | 
+| When you started:       | Aug 26, 2028                    | 
+| Location:               | San Jose, California            |
+| Schedule/working hours: | 9am - 5pm PST                   | 
 
 
 
