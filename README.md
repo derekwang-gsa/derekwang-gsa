@@ -6,7 +6,7 @@ Working with Derek Wang
 Intro text as desired!
 
 Intro
-
+|-------------|
 | Name pronunciation: | deh-rek whey-ng |
 | Pronouns: | he/him |
 | Chapter or department: | Customer Experience Directorate | 
