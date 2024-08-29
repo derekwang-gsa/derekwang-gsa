@@ -5,7 +5,7 @@
 |-------------------------|---------------------------------|
 | **Name pronunciation:**     | deh-rek whey-ng                 |
 | **Pronouns:**               | he/him                          |
-| **Chapter or department:**  | Customer Experience Directorate | 
+| **Chapter or department:**  | U.S. Digital Corps Design Fellow at the DHS Customer Experience Directorate | 
 | **When you started:**       | Aug 26, 2024                    | 
 | **Location:**               | San Jose, California            |
 | **Schedule/working hours:** | 12pm - 8pm EST / 9am - 5pm PST                   | 
